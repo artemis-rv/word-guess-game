@@ -1,6 +1,7 @@
 # Word Guess (Stickman-style) Game
 
 A simple terminal-based Python word-guessing game inspired by stickman/hangman.  
+
 The game reveals the vowels of a secret word and the player guesses consonants. The player has 5 chances for incorrect guesses. Words are grouped into three categories: **Cars**, **Animals**, and **Places**.
 
 ---
@@ -26,3 +27,13 @@ The game reveals the vowels of a secret word and the player guesses consonants. 
 2. In your terminal, run:
 ```bash
 python game.py
+```
+
+
+## 🤝Contributing
+
+Feel free to open issues or PRs for:
+- new word lists
+- UI improvements
+- testing, or
+- refactors
